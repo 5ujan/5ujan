@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujan Baskota</h1>
-<h3 align="center">Full Stack Software Developer</h3>
+<h3 align="center">A Full Stack Software Developer</h3>
     
 - 📫 How to reach me **sujan.baskota77@gmail.com**
     
