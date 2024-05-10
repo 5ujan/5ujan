@@ -12,6 +12,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="display: flex; gap: 5px;"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/5ujan/5ujan/main/icons/javascript.svg" alt="javascript" width="40" height="40" /> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/5ujan/5ujan/main/icons/typescript.png" alt="typescript" width="40" height="40" /> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/5ujan/5ujan/main/icons/reactjs.svg" alt="react" width="40" height="40" /> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/5ujan/5ujan/main/icons/nodejs.svg" alt="nodejs" width="40" height="40" /> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/5ujan/5ujan/main/icons/express.svg" alt="express" width="40" height="40" /> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/5ujan/5ujan/main/icons/tailwind.svg"
